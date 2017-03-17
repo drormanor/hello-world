@@ -1,3 +1,3 @@
 # hello-world
 This is my first repository
-I'm doing this verry early in the morning.
+I'm doing this very early in the morning.
